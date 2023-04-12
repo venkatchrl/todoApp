@@ -5,7 +5,30 @@
   text-align: center;
 }
 
-.logo {
+input[type=text] {
+  font-size: xx-large; 
+  width: 100%;
+  padding: 15px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=checkbox], button,h2 {
+  margin: 15px 50px;
+  
+}
+span {
+  font-size: large; 
+  width: 100%;
+  padding: 15px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* .logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
@@ -39,4 +62,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
